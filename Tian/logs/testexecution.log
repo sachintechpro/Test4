@@ -1,0 +1,337 @@
+[main] 16:50:48,087 INFO  [common.CommonMethods] URL not found in COnfig.properties file. So opening default site = www.google.com
+[main] 16:50:48,089 INFO  [common.CommonMethods] No browser found. NewBrowser Opening
+[main] 16:55:00,349 INFO  [common.CommonMethods] URL not found in Config.properties file. So opening default site = www.google.com
+[main] 16:55:00,350 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 16:56:34,684 INFO  [common.CommonMethods] URL not found in Config.properties file. So opening default site = www.google.com
+[main] 16:56:34,686 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 16:57:43,998 INFO  [common.CommonMethods] URL not found in Config.properties file. So opening default site = www.google.com
+[main] 16:57:44,001 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 16:58:52,393 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 16:58:52,423 INFO  [common.CommonMethods] URL not found in Config.properties file. So opening default site = www.google.com
+[main] 16:58:52,423 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 16:58:52,424 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:04:53,536 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:04:53,559 INFO  [common.CommonMethods] URL not found in Config.properties file. So opening default site = www.google.com
+[main] 17:04:53,559 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 17:04:53,560 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:05:57,068 INFO  [common.CommonMethods] URL not found in Config.properties file. So opening default site = www.google.com
+[main] 17:05:57,072 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 17:07:57,118 INFO  [common.CommonMethods] URL not found in Config.properties file. So opening default site = www.google.com
+[main] 17:07:57,120 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 17:08:47,405 INFO  [common.CommonMethods] URL not found in Config.properties file. So opening default site = www.google.com
+[main] 17:08:47,408 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 17:09:36,218 INFO  [common.ReadProperty] Value is:Remote
+[main] 17:09:36,220 INFO  [common.ReadProperty] Value is:Remote
+[main] 17:09:36,220 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:09:36,220 INFO  [common.CommonMethods] Browser = Remote
+[main] 17:09:36,220 INFO  [common.CommonMethods] Browser is=Chrome
+[main] 17:09:41,135 INFO  [common.ReadProperty] Value is:http://107.170.213.234/catalog/
+[main] 17:09:41,135 INFO  [common.ReadProperty] Value is:http://107.170.213.234/catalog/
+[main] 17:09:41,135 INFO  [common.CommonMethods] defaultURL = http://107.170.213.234/catalog/
+[main] 17:09:41,136 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 17:09:41,136 INFO  [common.ReadProperty] Value is:Remote
+[main] 17:09:41,136 INFO  [common.ReadProperty] Value is:Remote
+[main] 17:09:41,136 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:09:41,136 INFO  [common.CommonMethods] Browser = Remote
+[main] 17:09:41,136 INFO  [common.CommonMethods] Browser is=Chrome
+[main] 17:10:20,738 INFO  [common.ReadProperty] Value is:Chrome
+[main] 17:10:20,739 INFO  [common.ReadProperty] Value is:Chrome
+[main] 17:10:20,739 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:10:20,739 INFO  [common.CommonMethods] Browser = Chrome
+[main] 17:11:00,793 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 17:11:00,794 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 17:11:00,806 INFO  [common.ReadProperty] Value is:http://107.170.213.234/catalog/
+[main] 17:11:00,807 INFO  [common.ReadProperty] Value is:http://107.170.213.234/catalog/
+[main] 17:11:00,807 INFO  [common.CommonMethods] defaultURL = http://107.170.213.234/catalog/
+[main] 17:11:00,818 INFO  [common.CommonMethods] URL Navigation
+[main] 17:11:00,847 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 17:11:36,077 INFO  [common.CommonMethods] Test description: Open Home Page
+[main] 17:11:36,077 INFO  [common.CommonMethods] getMethod name:HomePage.testLogin01()[pri:0, instance:test.HomePage@2a5ca609]
+[main] 17:11:36,077 INFO  [common.CommonMethods] getName name:testLogin01
+[main] 17:11:36,078 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 17:11:36,078 INFO  [common.CommonMethods] getThrow name:java.lang.Throwable: Error capture: blah blah. 
+System error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='bodyContent']/h1"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tzi-PC', ip: '10.1.10.18', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\tianen\AppData\Local\Temp\scoped_dir16664_3513}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dc017f10b440024e5b87a3bae1d2b2d2
+*** Element info: {Using=xpath, value=//*[@id='bodyContent']/h1}
+[main] 17:11:36,080 INFO  [common.CommonMethods] TZI-PC
+[main] 17:11:36,081 INFO  [common.CommonMethods] Start time: 05/18/2016 17:11:36
+[main] 17:11:36,081 INFO  [common.CommonMethods] Fail
+[main] 17:11:36,083 INFO  [common.ReadProperty] Value is:Chrome
+[main] 17:11:36,083 INFO  [common.ReadProperty] Value is:Chrome
+[main] 17:11:36,544 INFO  [common.ScreenCapture] Screen Name:=HomePage_testLogin01
+[main] 17:11:36,545 INFO  [common.ReadProperty] Value is:eCommerge
+[main] 17:11:36,545 INFO  [common.ReadProperty] Value is:eCommerge
+[main] 17:11:36,545 INFO  [common.ReadProperty] Value is:Cycle1
+[main] 17:11:36,545 INFO  [common.ReadProperty] Value is:Cycle1
+[main] 17:11:36,722 INFO  [common.ScreenCapture] <a href= S:\workspace\Tian\screenshots\eCommerge\Cycle1\screenshots\05-18-2016_05.11.36_HomePage_testLogin01.jpg target='_blank' >05-18-2016_05.11.36_HomePage_testLogin01.jpg</a>
+[main] 17:11:36,723 INFO  [common.CommonMethods] screenshot captured for: HomePage.testLogin01()[pri:0, instance:test.HomePage@2a5ca609] Failed TestCase
+[main] 17:11:36,723 INFO  [common.CommonMethods] screenshot captured is saved atTian/screenshots/eCommerge/Cycle1/screenshots/05-18-2016_05.11.36_HomePage_testLogin01.jpg
+[main] 17:11:36,732 INFO  [common.CommonMethods] Closing browser.
+[main] 17:11:40,005 INFO  [common.CommonMethods] Browser closed.
+[main] 17:13:48,027 INFO  [common.ReadProperty] Value is:Chrome
+[main] 17:13:48,028 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:13:48,028 INFO  [common.CommonMethods] Browser = Chrome
+[main] 17:13:59,077 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 17:13:59,077 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 17:13:59,087 INFO  [common.ReadProperty] Value is:http://107.170.213.234/catalog/
+[main] 17:13:59,087 INFO  [common.CommonMethods] defaultURL = http://107.170.213.234/catalog/
+[main] 17:13:59,093 INFO  [common.CommonMethods] URL Navigation
+[main] 17:13:59,112 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 17:14:34,248 INFO  [common.CommonMethods] Test description: Open Home Page
+[main] 17:14:34,248 INFO  [common.CommonMethods] getMethod name:HomePage.testLogin01()[pri:0, instance:test.HomePage@2a5ca609]
+[main] 17:14:34,248 INFO  [common.CommonMethods] getName name:testLogin01
+[main] 17:14:34,249 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 17:14:34,249 INFO  [common.CommonMethods] getThrow name:java.lang.Throwable: Error capture: blah blah. 
+System error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='bodyContent']/h1"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tzi-PC', ip: '10.1.10.18', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\tianen\AppData\Local\Temp\scoped_dir17000_2056}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fd3105231a95733a8786d1b73e8bf06a
+*** Element info: {Using=xpath, value=//*[@id='bodyContent']/h1}
+[main] 17:14:34,249 INFO  [common.CommonMethods] TZI-PC
+[main] 17:14:34,252 INFO  [common.CommonMethods] Start time: 05/18/2016 17:14:34
+[main] 17:14:34,252 INFO  [common.CommonMethods] Fail
+[main] 17:14:34,255 INFO  [common.ReadProperty] Value is:Chrome
+[main] 17:14:34,603 INFO  [common.ScreenCapture] Screen Name:=HomePage_testLogin01
+[main] 17:14:34,603 INFO  [common.ReadProperty] Value is:eCommerge
+[main] 17:14:34,604 INFO  [common.ReadProperty] Value is:Cycle1
+[main] 17:14:34,626 INFO  [common.ScreenCapture] <a href= S:\workspace\Tian\screenshots\eCommerge\Cycle1\screenshots\05-18-2016_05.14.34_HomePage_testLogin01.jpg target='_blank' >05-18-2016_05.14.34_HomePage_testLogin01.jpg</a>
+[main] 17:14:34,626 INFO  [common.CommonMethods] screenshot captured for: HomePage.testLogin01()[pri:0, instance:test.HomePage@2a5ca609] Failed TestCase
+[main] 17:14:34,626 INFO  [common.CommonMethods] screenshot captured is saved atTian/screenshots/eCommerge/Cycle1/screenshots/05-18-2016_05.14.34_HomePage_testLogin01.jpg
+[main] 17:14:34,636 INFO  [common.CommonMethods] Closing browser.
+[main] 17:14:36,148 INFO  [common.CommonMethods] Browser closed.
+[main] 17:17:15,438 INFO  [common.ReadProperty] Value is:Chrome
+[main] 17:17:15,439 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:17:15,439 INFO  [common.CommonMethods] Browser = Chrome
+[main] 17:17:24,452 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 17:17:24,453 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 17:17:24,464 INFO  [common.ReadProperty] Value is:http://107.170.213.234/catalog/
+[main] 17:17:24,465 INFO  [common.CommonMethods] defaultURL = http://107.170.213.234/catalog/
+[main] 17:17:27,047 INFO  [common.CommonMethods] URL Navigation
+[main] 17:17:27,443 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 17:17:32,660 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 17:17:32,662 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 17:22:19,305 INFO  [common.ReadProperty] Value is:Chrome
+[main] 17:22:19,307 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:22:19,307 INFO  [common.CommonMethods] Browser = Chrome
+[main] 17:22:44,392 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 17:22:44,392 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 17:22:44,399 INFO  [common.ReadProperty] Value is:http://107.170.213.234/catalog/
+[main] 17:22:44,399 INFO  [common.CommonMethods] defaultURL = http://107.170.213.234/catalog/
+[main] 17:22:59,494 INFO  [common.CommonMethods] URL Navigation
+[main] 17:23:00,211 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 17:23:05,402 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 17:23:05,405 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 17:24:58,602 INFO  [common.ReadProperty] Value is:Chrome
+[main] 17:24:58,603 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:24:58,603 INFO  [common.CommonMethods] Browser = Chrome
+[main] 17:25:08,654 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 17:25:08,655 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 17:25:08,662 INFO  [common.ReadProperty] Value is:http://107.170.213.234/catalog/
+[main] 17:25:08,662 INFO  [common.CommonMethods] defaultURL = http://107.170.213.234/catalog/
+[main] 17:25:15,052 INFO  [common.CommonMethods] URL Navigation
+[main] 17:25:15,461 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 17:25:20,685 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 17:25:20,687 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 17:25:20,693 INFO  [common.CommonMethods] Test description: Open Home Page
+[main] 17:25:20,694 INFO  [common.CommonMethods] getMethod name:HomePage.testLogin01()[pri:0, instance:test.HomePage@2a5ca609]
+[main] 17:25:20,694 INFO  [common.CommonMethods] getName name:testLogin01
+[main] 17:25:20,694 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 17:25:20,694 INFO  [common.CommonMethods] getThrow name:null
+[main] 17:25:20,695 INFO  [common.CommonMethods] TZI-PC
+[main] 17:25:20,695 INFO  [common.CommonMethods] Start time: 05/18/2016 17:25:20
+[main] 17:25:20,696 INFO  [common.CommonMethods] Pass
+[main] 17:25:20,825 INFO  [common.CommonMethods] Closing browser.
+[main] 17:25:22,419 INFO  [common.CommonMethods] Browser closed.
+[main] 17:38:10,994 INFO  [common.ReadProperty] Value is: Chrome
+[main] 17:38:10,996 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:38:10,996 INFO  [common.CommonMethods] Browser = Chrome
+[main] 17:38:59,041 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 17:38:59,041 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 17:38:59,084 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 17:38:59,084 INFO  [common.CommonMethods] defaultURL = http://107.170.213.234/catalog/
+[main] 17:39:13,168 INFO  [common.CommonMethods] URL Navigation
+[main] 17:39:13,817 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 17:39:19,599 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 17:39:19,602 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 17:39:19,734 INFO  [common.CommonMethods] Click on log yourself in
+[main] 17:39:20,313 INFO  [common.CommonMethods] log yourself in clicked 
+[main] 17:39:20,313 INFO  [common.CommonMethods] Alert not found
+[main] 17:39:20,400 INFO  [Page.WelcomePage] Welcome, Please Sign In header found.
+[main] 17:39:20,400 INFO  [Page.WelcomePage] Welcome, Please Sign Inheader verified.
+[main] 17:39:20,427 INFO  [common.CommonMethods] Test description: Open Home Page
+[main] 17:39:20,427 INFO  [common.CommonMethods] getMethod name:HomePage.ClickLogIn()[pri:0, instance:test.HomePage@20e2cbe0]
+[main] 17:39:20,428 INFO  [common.CommonMethods] getName name:ClickLogIn
+[main] 17:39:20,428 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 17:39:20,428 INFO  [common.CommonMethods] getThrow name:null
+[main] 17:39:20,428 INFO  [common.CommonMethods] TZI-PC
+[main] 17:39:20,429 INFO  [common.CommonMethods] Start time: 05/18/2016 17:39:20
+[main] 17:39:20,429 INFO  [common.CommonMethods] Pass
+[main] 17:39:20,768 INFO  [common.CommonMethods] Closing browser.
+[main] 17:39:23,348 INFO  [common.CommonMethods] Browser closed.
+[main] 17:39:23,411 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 17:39:23,412 INFO  [common.CommonMethods] defaultURL = http://107.170.213.234/catalog/
+[main] 17:39:23,442 INFO  [common.CommonMethods] URL not found in Config.properties file. So opening default site = http://107.170.213.234/catalog/
+[main] 17:39:23,442 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 17:39:23,442 INFO  [common.ReadProperty] Value is: Chrome
+[main] 17:39:23,443 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:39:23,443 INFO  [common.CommonMethods] Browser = Chrome
+[main] 17:39:29,934 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 17:39:29,935 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 17:39:31,477 INFO  [common.CommonMethods] URL Navigation
+[main] 17:39:31,488 INFO  [common.CommonMethods] Test description: Open Home Page
+[main] 17:39:31,488 INFO  [common.CommonMethods] getMethod name:HomePage.OpenHomePage()[pri:0, instance:test.HomePage@20e2cbe0]
+[main] 17:39:31,488 INFO  [common.CommonMethods] getName name:OpenHomePage
+[main] 17:39:31,488 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 17:39:31,488 INFO  [common.CommonMethods] getThrow name:null
+[main] 17:39:31,489 INFO  [common.CommonMethods] TZI-PC
+[main] 17:39:31,489 INFO  [common.CommonMethods] Skipped
+[main] 17:39:31,683 INFO  [common.CommonMethods] Closing browser.
+[main] 17:39:32,597 INFO  [common.CommonMethods] Browser closed.
+[main] 17:40:26,085 INFO  [common.ReadProperty] Value is: Chrome
+[main] 17:40:26,087 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:40:26,088 INFO  [common.CommonMethods] Browser = Chrome
+[main] 17:40:30,899 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 17:40:30,900 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 17:40:30,913 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 17:40:30,914 INFO  [common.CommonMethods] defaultURL = http://107.170.213.234/catalog/
+[main] 17:40:32,392 INFO  [common.CommonMethods] URL Navigation
+[main] 17:40:32,741 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 17:40:35,901 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 17:40:35,904 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 17:40:35,973 INFO  [common.CommonMethods] Click on log yourself in
+[main] 17:40:36,362 INFO  [common.CommonMethods] log yourself in clicked 
+[main] 17:40:36,363 INFO  [common.CommonMethods] Alert not found
+[main] 17:40:36,448 INFO  [Page.WelcomePage] Welcome, Please Sign In header found.
+[main] 17:40:36,448 INFO  [Page.WelcomePage] Welcome, Please Sign Inheader verified.
+[main] 17:40:36,455 INFO  [common.CommonMethods] Test description: Click Login Link
+[main] 17:40:36,455 INFO  [common.CommonMethods] getMethod name:HomePage.ClickLogIn()[pri:0, instance:test.HomePage@20e2cbe0]
+[main] 17:40:36,455 INFO  [common.CommonMethods] getName name:ClickLogIn
+[main] 17:40:36,455 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 17:40:36,455 INFO  [common.CommonMethods] getThrow name:null
+[main] 17:40:36,456 INFO  [common.CommonMethods] TZI-PC
+[main] 17:40:36,456 INFO  [common.CommonMethods] Start time: 05/18/2016 17:40:36
+[main] 17:40:36,456 INFO  [common.CommonMethods] Pass
+[main] 17:40:36,571 INFO  [common.CommonMethods] Closing browser.
+[main] 17:40:37,682 INFO  [common.CommonMethods] Browser closed.
+[main] 17:40:37,704 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 17:40:37,705 INFO  [common.CommonMethods] defaultURL = http://107.170.213.234/catalog/
+[main] 17:40:37,709 INFO  [common.CommonMethods] URL not found in Config.properties file. So opening default site = http://107.170.213.234/catalog/
+[main] 17:40:37,712 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 17:40:37,713 INFO  [common.ReadProperty] Value is: Chrome
+[main] 17:40:37,714 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:40:37,714 INFO  [common.CommonMethods] Browser = Chrome
+[main] 17:40:40,980 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 17:40:40,980 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 17:40:42,449 INFO  [common.CommonMethods] URL Navigation
+[main] 17:40:42,460 INFO  [common.CommonMethods] Test description: Open Home Page
+[main] 17:40:42,460 INFO  [common.CommonMethods] getMethod name:HomePage.OpenHomePage()[pri:0, instance:test.HomePage@20e2cbe0]
+[main] 17:40:42,460 INFO  [common.CommonMethods] getName name:OpenHomePage
+[main] 17:40:42,460 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 17:40:42,461 INFO  [common.CommonMethods] getThrow name:null
+[main] 17:40:42,461 INFO  [common.CommonMethods] TZI-PC
+[main] 17:40:42,461 INFO  [common.CommonMethods] Skipped
+[main] 17:40:42,660 INFO  [common.CommonMethods] Closing browser.
+[main] 17:40:43,550 INFO  [common.CommonMethods] Browser closed.
+[main] 17:42:34,924 INFO  [common.ReadProperty] Value is: Chrome
+[main] 17:42:34,926 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:42:34,926 INFO  [common.CommonMethods] Browser = Chrome
+[main] 17:42:39,242 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 17:42:39,243 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 17:42:39,252 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 17:42:39,252 INFO  [common.CommonMethods] defaultURL = http://107.170.213.234/catalog/
+[main] 17:42:40,681 INFO  [common.CommonMethods] URL Navigation
+[main] 17:42:41,007 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 17:42:41,158 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 17:42:41,161 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 17:42:41,240 INFO  [common.CommonMethods] Click on log yourself in
+[main] 17:42:41,696 INFO  [common.CommonMethods] log yourself in clicked 
+[main] 17:42:41,696 INFO  [common.CommonMethods] Alert not found
+[main] 17:42:41,791 INFO  [Page.WelcomePage] Welcome, Please Sign In header found.
+[main] 17:42:41,791 INFO  [Page.WelcomePage] Welcome, Please Sign Inheader verified.
+[main] 17:42:41,797 INFO  [common.CommonMethods] Test description: Click Login Link
+[main] 17:42:41,798 INFO  [common.CommonMethods] getMethod name:HomePage.ClickLogIn()[pri:0, instance:test.HomePage@20e2cbe0]
+[main] 17:42:41,798 INFO  [common.CommonMethods] getName name:ClickLogIn
+[main] 17:42:41,798 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 17:42:41,798 INFO  [common.CommonMethods] getThrow name:null
+[main] 17:42:41,799 INFO  [common.CommonMethods] TZI-PC
+[main] 17:42:41,799 INFO  [common.CommonMethods] Start time: 05/18/2016 17:42:41
+[main] 17:42:41,800 INFO  [common.CommonMethods] Pass
+[main] 17:42:41,929 INFO  [common.CommonMethods] Closing browser.
+[main] 17:42:42,988 INFO  [common.CommonMethods] Browser closed.
+[main] 17:42:42,999 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 17:42:42,999 INFO  [common.CommonMethods] defaultURL = http://107.170.213.234/catalog/
+[main] 17:42:43,003 INFO  [common.CommonMethods] URL not found in Config.properties file. So opening default site = http://107.170.213.234/catalog/
+[main] 17:42:43,005 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 17:42:43,006 INFO  [common.ReadProperty] Value is: Chrome
+[main] 17:42:43,007 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:42:43,007 INFO  [common.CommonMethods] Browser = Chrome
+[main] 17:42:46,180 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 17:42:46,180 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 17:42:48,154 INFO  [common.CommonMethods] URL Navigation
+[main] 17:42:48,164 INFO  [common.CommonMethods] Test description: Open Home Page
+[main] 17:42:48,165 INFO  [common.CommonMethods] getMethod name:HomePage.OpenHomePage()[pri:0, instance:test.HomePage@20e2cbe0]
+[main] 17:42:48,165 INFO  [common.CommonMethods] getName name:OpenHomePage
+[main] 17:42:48,165 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 17:42:48,165 INFO  [common.CommonMethods] getThrow name:null
+[main] 17:42:48,165 INFO  [common.CommonMethods] TZI-PC
+[main] 17:42:48,166 INFO  [common.CommonMethods] Skipped
+[main] 17:42:48,365 INFO  [common.CommonMethods] Closing browser.
+[main] 17:42:49,261 INFO  [common.CommonMethods] Browser closed.

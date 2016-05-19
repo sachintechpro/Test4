@@ -1,0 +1,19 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+<suite name="Suite1" verbose="1" > 
+
+   <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="org.testng.reporters.FailedReporter"/>
+   </listeners>   
+  <parameter name="remoteBrowserType" value="Chrome"/>
+ 
+  <test name="Regression">
+ 	
+	<classes>
+		<class name="tests.HomePage"/>
+
+	</classes>
+   </test> <!-- Test -->  
+</suite> <!-- regression -->
