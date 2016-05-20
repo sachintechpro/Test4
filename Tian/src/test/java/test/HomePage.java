@@ -13,10 +13,12 @@ import common.CommonMethods;
 
 
 
+
+
 public class HomePage {
 	private WebDriver driver;
 	private CommonMethods CF;
-	
+	//private ConnectDataBase DB;
 	@Parameters({ "remoteBrowserType"})
 	
 	@BeforeClass(alwaysRun=true)
@@ -35,7 +37,7 @@ public class HomePage {
 	}
 	@AfterMethod(alwaysRun=true) 
 	public void after(ITestResult it) throws Exception{
-		if(it.getStatus()==2){
+		if(it.getStatus()!=1){
 		it.setThrowable(new Throwable("Error capture: blah blah. \n" + "System error: " + it.getThrowable().getMessage()));
 		}
 		CF.postResults(it);
@@ -45,7 +47,7 @@ public class HomePage {
 	@Test(groups = {"Regression"},description="Open Home Page")
 	public void OpenHomePage(){
 		WelcomePage WelcomePage = new WelcomePage(driver);
-	
+		
 	}
 	@Test(groups = {"Regression"},description="Click Login Link")
 	public void ClickLogIn(){

@@ -158,9 +158,7 @@ public class CommonMethods {
 		catch(WebDriverException e){
 			logger.info("Browser is already closed.");
 		}
-		rootWindow = null;
-		windowHandles.clear();
-		windowHandles = null;
+		
 	}
 
 	public WebDriver getDriver(){
