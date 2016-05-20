@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17327" started-at="2016-05-20T20:43:57Z" finished-at="2016-05-20T20:44:15Z">
+    <groups>
+      <group name="Regression">
+        <method signature="HomePage.OpenHomePage()[pri:0, instance:test.HomePage@3ffc5af1]" name="OpenHomePage" class="test.HomePage"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Default test" duration-ms="17327" started-at="2016-05-20T20:43:57Z" finished-at="2016-05-20T20:44:15Z">
+      <class name="test.HomePage">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:test.HomePage@3ffc5af1]" name="setup" is-config="true" duration-ms="9610" started-at="2016-05-20T13:43:57Z" finished-at="2016-05-20T13:44:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigate(java.lang.String)[pri:0, instance:test.HomePage@3ffc5af1]" name="navigate" is-config="true" duration-ms="5171" started-at="2016-05-20T13:44:07Z" finished-at="2016-05-20T13:44:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="OpenHomePage()[pri:0, instance:test.HomePage@3ffc5af1]" name="OpenHomePage" duration-ms="1213" started-at="2016-05-20T13:44:12Z" description="Open Home Page" finished-at="2016-05-20T13:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenHomePage -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:test.HomePage@3ffc5af1]" name="after" is-config="true" duration-ms="1302" started-at="2016-05-20T13:44:13Z" finished-at="2016-05-20T13:44:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=OpenHomePage status=SUCCESS method=HomePage.OpenHomePage()[pri:0, instance:test.HomePage@3ffc5af1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- test.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

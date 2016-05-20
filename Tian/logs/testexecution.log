@@ -335,3 +335,242 @@ OSVersion=6.3
 [main] 17:42:48,166 INFO  [common.CommonMethods] Skipped
 [main] 17:42:48,365 INFO  [common.CommonMethods] Closing browser.
 [main] 17:42:49,261 INFO  [common.CommonMethods] Browser closed.
+[main] 16:55:10,936 INFO  [common.ReadProperty] Value is: Chrome
+[main] 16:55:10,956 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 16:55:10,956 INFO  [common.CommonMethods] Browser = Chrome
+[main] 16:55:30,336 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 16:55:30,336 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 16:55:30,350 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 16:55:30,356 INFO  [common.CommonMethods] URL Navigation
+[main] 16:55:38,790 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 16:55:39,172 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 16:55:39,175 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 16:55:39,376 INFO  [common.CommonMethods] Click on log yourself in
+[main] 16:55:39,968 INFO  [common.CommonMethods] log yourself in clicked 
+[main] 16:55:39,968 INFO  [common.CommonMethods] Alert not found
+[main] 16:55:40,082 INFO  [Page.WelcomePage] Welcome, Please Sign In header found.
+[main] 16:55:40,082 INFO  [Page.WelcomePage] Welcome, Please Sign Inheader verified.
+[main] 16:55:40,102 INFO  [common.CommonMethods] Test description: Click Login Link
+[main] 16:55:40,103 INFO  [common.CommonMethods] getMethod name:HomePage.ClickLogIn()[pri:0, instance:test.HomePage@51565ec2]
+[main] 16:55:40,103 INFO  [common.CommonMethods] getName name:ClickLogIn
+[main] 16:55:40,103 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 16:55:40,103 INFO  [common.CommonMethods] getThrow name:null
+[main] 16:55:40,103 INFO  [common.CommonMethods] TZI-PC
+[main] 16:55:40,104 INFO  [common.CommonMethods] Start time: 05/19/2016 16:55:40
+[main] 16:55:40,104 INFO  [common.CommonMethods] Pass
+[main] 16:55:40,342 INFO  [common.CommonMethods] Closing browser.
+[main] 16:55:42,850 INFO  [common.CommonMethods] Browser closed.
+[main] 16:55:42,947 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 16:55:43,016 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 16:55:43,016 INFO  [common.ReadProperty] Value is: Chrome
+[main] 16:55:43,017 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 16:55:43,017 INFO  [common.CommonMethods] Browser = Chrome
+[main] 16:55:53,185 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 16:55:53,185 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 16:55:59,595 INFO  [common.CommonMethods] URL Navigation
+[main] 16:55:59,608 INFO  [common.CommonMethods] Test description: Open Home Page
+[main] 16:55:59,609 INFO  [common.CommonMethods] getMethod name:HomePage.OpenHomePage()[pri:0, instance:test.HomePage@51565ec2]
+[main] 16:55:59,609 INFO  [common.CommonMethods] getName name:OpenHomePage
+[main] 16:55:59,609 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 16:55:59,609 INFO  [common.CommonMethods] getThrow name:null
+[main] 16:55:59,610 INFO  [common.CommonMethods] TZI-PC
+[main] 16:55:59,610 INFO  [common.CommonMethods] Skipped
+[main] 16:55:59,791 INFO  [common.CommonMethods] Closing browser.
+[main] 16:56:00,635 INFO  [common.CommonMethods] Browser closed.
+[main] 16:57:41,468 INFO  [common.ReadProperty] Value is: Chrome
+[main] 16:57:41,469 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 16:57:41,469 INFO  [common.CommonMethods] Browser = Chrome
+[main] 16:57:53,150 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 16:57:53,151 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 16:57:53,156 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 16:57:53,161 INFO  [common.CommonMethods] URL Navigation
+[main] 16:58:01,559 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 16:58:01,734 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 16:58:01,736 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 16:58:01,813 INFO  [common.CommonMethods] Click on log yourself in
+[main] 16:58:02,276 INFO  [common.CommonMethods] log yourself in clicked 
+[main] 16:58:02,277 INFO  [common.CommonMethods] Alert not found
+[main] 16:58:02,360 INFO  [Page.WelcomePage] Welcome, Please Sign In header found.
+[main] 16:58:02,360 INFO  [Page.WelcomePage] Welcome, Please Sign Inheader verified.
+[main] 16:58:02,367 INFO  [common.CommonMethods] Test description: Click Login Link
+[main] 16:58:02,367 INFO  [common.CommonMethods] getMethod name:HomePage.ClickLogIn()[pri:0, instance:test.HomePage@51565ec2]
+[main] 16:58:02,368 INFO  [common.CommonMethods] getName name:ClickLogIn
+[main] 16:58:02,368 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 16:58:02,368 INFO  [common.CommonMethods] getThrow name:null
+[main] 16:58:02,368 INFO  [common.CommonMethods] TZI-PC
+[main] 16:58:02,369 INFO  [common.CommonMethods] Start time: 05/19/2016 16:58:02
+[main] 16:58:02,370 INFO  [common.CommonMethods] Pass
+[main] 16:58:02,718 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 16:58:02,724 INFO  [common.CommonMethods] URL Navigation
+[main] 16:58:03,018 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 16:58:03,093 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 16:58:03,093 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 16:58:03,097 INFO  [common.CommonMethods] Test description: Open Home Page
+[main] 16:58:03,097 INFO  [common.CommonMethods] getMethod name:HomePage.OpenHomePage()[pri:0, instance:test.HomePage@51565ec2]
+[main] 16:58:03,098 INFO  [common.CommonMethods] getName name:OpenHomePage
+[main] 16:58:03,099 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 16:58:03,099 INFO  [common.CommonMethods] getThrow name:null
+[main] 16:58:03,100 INFO  [common.CommonMethods] TZI-PC
+[main] 16:58:03,100 INFO  [common.CommonMethods] Pass
+[main] 17:00:44,016 INFO  [common.ReadProperty] Value is: Chrome
+[main] 17:00:44,017 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 17:00:44,018 INFO  [common.CommonMethods] Browser = Chrome
+[main] 17:00:55,271 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 17:00:55,272 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 17:00:55,287 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 17:00:55,295 INFO  [common.CommonMethods] URL Navigation
+[main] 17:00:57,117 INFO  [common.CommonMethods] Test description: ConnectDatabase
+[main] 17:00:57,118 INFO  [common.CommonMethods] getMethod name:HomePage.ConnectDataBaseTest()[pri:0, instance:test.HomePage@675d3402]
+[main] 17:00:57,118 INFO  [common.CommonMethods] getName name:ConnectDataBaseTest
+[main] 17:00:57,118 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 17:00:57,118 INFO  [common.CommonMethods] getThrow name:java.lang.Throwable: Error capture: blah blah. 
+System error: null
+[main] 17:00:57,119 INFO  [common.CommonMethods] TZI-PC
+[main] 17:00:57,120 INFO  [common.CommonMethods] Start time: 05/19/2016 17:00:57
+[main] 17:00:57,120 INFO  [common.CommonMethods] Fail
+[main] 17:00:57,148 INFO  [common.ReadProperty] Value is: Chrome
+[main] 17:00:57,666 INFO  [common.ScreenCapture] Screen Name:=HomePage_ConnectDataBaseTest
+[main] 17:00:57,666 INFO  [common.ReadProperty] Value is: eCommerge
+[main] 17:00:57,667 INFO  [common.ReadProperty] Value is: Cycle1
+[main] 17:00:57,826 INFO  [common.ScreenCapture] <a href= S:\Git\Tian\screenshots\eCommerge\Cycle1\screenshots\05-19-2016_05.00.57_HomePage_ConnectDataBaseTest.jpg target='_blank' >05-19-2016_05.00.57_HomePage_ConnectDataBaseTest.jpg</a>
+[main] 17:00:57,826 INFO  [common.CommonMethods] screenshot captured for: HomePage.ConnectDataBaseTest()[pri:0, instance:test.HomePage@675d3402] Failed TestCase
+[main] 17:00:57,827 INFO  [common.CommonMethods] screenshot captured is saved atcreenshots/eCommerge/Cycle1/screenshots/05-19-2016_05.00.57_HomePage_ConnectDataBaseTest.jpg
+[main] 19:06:57,338 INFO  [common.ReadProperty] Value is: Chrome
+[main] 19:06:57,343 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 19:06:57,343 INFO  [common.CommonMethods] Browser = Chrome
+[main] 19:07:12,549 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 19:07:12,550 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 19:07:12,564 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 19:07:12,574 INFO  [common.CommonMethods] URL Navigation
+[main] 19:07:15,701 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 19:07:15,964 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 19:07:15,967 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 19:07:16,131 INFO  [common.CommonMethods] Click on log yourself in
+[main] 19:07:16,606 INFO  [common.CommonMethods] log yourself in clicked 
+[main] 19:07:16,607 INFO  [common.CommonMethods] Alert not found
+[main] 19:07:16,690 INFO  [Page.WelcomePage] Welcome, Please Sign In header found.
+[main] 19:07:16,690 INFO  [Page.WelcomePage] Welcome, Please Sign Inheader verified.
+[main] 19:07:16,696 INFO  [common.CommonMethods] Test description: Click Login Link
+[main] 19:07:16,696 INFO  [common.CommonMethods] getMethod name:HomePage.ClickLogIn()[pri:0, instance:test.HomePage@5c7fa833]
+[main] 19:07:16,696 INFO  [common.CommonMethods] getName name:ClickLogIn
+[main] 19:07:16,696 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 19:07:16,697 INFO  [common.CommonMethods] getThrow name:null
+[main] 19:07:16,697 INFO  [common.CommonMethods] TZI-PC
+[main] 19:07:16,697 INFO  [common.CommonMethods] Start time: 05/19/2016 19:07:16
+[main] 19:07:16,698 INFO  [common.CommonMethods] Pass
+[main] 19:07:16,880 INFO  [common.CommonMethods] Closing browser.
+[main] 19:07:18,637 INFO  [common.CommonMethods] Browser closed.
+[main] 19:07:18,654 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 19:07:18,738 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 19:07:18,738 INFO  [common.ReadProperty] Value is: Chrome
+[main] 19:07:18,739 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 19:07:18,739 INFO  [common.CommonMethods] Browser = Chrome
+[main] 19:07:26,830 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 19:07:26,830 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 19:07:31,364 INFO  [common.CommonMethods] URL Navigation
+[main] 19:07:31,375 INFO  [common.CommonMethods] Test description: Open Home Page
+[main] 19:07:31,375 INFO  [common.CommonMethods] getMethod name:HomePage.OpenHomePage()[pri:0, instance:test.HomePage@5c7fa833]
+[main] 19:07:31,376 INFO  [common.CommonMethods] getName name:OpenHomePage
+[main] 19:07:31,376 INFO  [common.CommonMethods] getTestClass name:[TestClass name=class test.HomePage]
+[main] 19:07:31,376 INFO  [common.CommonMethods] getThrow name:null
+[main] 19:07:31,376 INFO  [common.CommonMethods] TZI-PC
+[main] 19:07:31,377 INFO  [common.CommonMethods] Skipped
+[main] 19:07:31,561 INFO  [common.CommonMethods] Closing browser.
+[main] 19:07:32,435 INFO  [common.CommonMethods] Browser closed.
+[main] 19:10:06,652 INFO  [common.ReadProperty] Value is: Chrome
+[main] 19:10:06,653 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 19:10:06,654 INFO  [common.CommonMethods] Browser = Chrome
+[main] 19:10:26,856 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 19:10:26,857 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 19:10:26,863 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 19:10:26,867 INFO  [common.CommonMethods] URL Navigation
+[main] 19:10:33,451 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 19:10:33,639 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 19:10:33,642 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 19:10:33,734 INFO  [common.CommonMethods] Click on log yourself in
+[main] 19:10:34,198 INFO  [common.CommonMethods] log yourself in clicked 
+[main] 19:10:34,198 INFO  [common.CommonMethods] Alert not found
+[main] 19:10:34,282 INFO  [Page.WelcomePage] Welcome, Please Sign In header found.
+[main] 19:10:34,282 INFO  [Page.WelcomePage] Welcome, Please Sign Inheader verified.
+[main] 19:10:34,376 INFO  [common.CommonMethods] Closing browser.
+[main] 19:10:35,869 INFO  [common.CommonMethods] Browser closed.
+[main] 19:10:35,881 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 19:10:35,886 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 19:10:35,887 INFO  [common.ReadProperty] Value is: Chrome
+[main] 19:10:35,887 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 19:10:35,887 INFO  [common.CommonMethods] Browser = Chrome
+[main] 19:10:45,449 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 19:10:45,450 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 19:10:52,060 INFO  [common.CommonMethods] URL Navigation
+[main] 19:10:52,268 INFO  [common.CommonMethods] Closing browser.
+[main] 19:10:53,140 INFO  [common.CommonMethods] Browser closed.
+[main] 19:12:04,391 INFO  [common.ReadProperty] Value is: Chrome
+[main] 19:12:04,393 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 19:12:04,393 INFO  [common.CommonMethods] Browser = Chrome
+[main] 19:12:13,725 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 19:12:13,726 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 19:12:13,740 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 19:12:13,751 INFO  [common.CommonMethods] URL Navigation
+[main] 19:12:15,261 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 19:12:15,418 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 19:12:15,420 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 19:12:15,512 INFO  [common.CommonMethods] Click on log yourself in
+[main] 19:12:15,928 INFO  [common.CommonMethods] log yourself in clicked 
+[main] 19:12:15,929 INFO  [common.CommonMethods] Alert not found
+[main] 19:12:16,014 INFO  [Page.WelcomePage] Welcome, Please Sign In header found.
+[main] 19:12:16,014 INFO  [Page.WelcomePage] Welcome, Please Sign Inheader verified.
+[main] 19:12:16,192 INFO  [common.CommonMethods] Closing browser.
+[main] 19:12:17,461 INFO  [common.CommonMethods] Browser closed.
+[main] 19:12:17,463 INFO  [common.ReadProperty] Value is: http://107.170.213.234/catalog/
+[main] 19:12:17,466 INFO  [common.CommonMethods] No browser found. New Browser Opening
+[main] 19:12:17,467 INFO  [common.ReadProperty] Value is: Chrome
+[main] 19:12:17,467 INFO  [common.CommonMethods] Current OS = Windows 8.1
+[main] 19:12:17,467 INFO  [common.CommonMethods] Browser = Chrome
+[main] 19:12:21,201 INFO  [common.CommonMethods] Broswer has openned Successfully
+[main] 19:12:21,202 INFO  [common.CommonMethods] 
+Browser=chrome
+BrowserVersion=50.0.2661.94
+OS=Windows 8.1
+OSVersion=6.3
+[main] 19:12:22,711 INFO  [common.CommonMethods] URL Navigation
+[main] 19:12:22,722 INFO  [Page.WelcomePage] Loading WelcomePage page...
+[main] 19:12:22,832 INFO  [Page.WelcomePage] Welcome to iBusiness header found.
+[main] 19:12:22,832 INFO  [Page.WelcomePage] Welcome to iBusinessheader verified.
+[main] 19:12:23,037 INFO  [common.CommonMethods] Closing browser.
+[main] 19:12:23,938 INFO  [common.CommonMethods] Browser closed.

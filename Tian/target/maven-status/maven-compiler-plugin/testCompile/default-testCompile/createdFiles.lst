@@ -1,0 +1,8 @@
+common\CommonMethods.class
+common\ScreenCapture.class
+common\ReadExcel.class
+test\HomePage.class
+common\ConnectDataBase.class
+common\ReadExcel$DataDriverXLS.class
+common\ReadProperty.class
+Page\WelcomePage.class

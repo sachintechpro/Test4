@@ -1,5 +1,7 @@
 package test;
 
+import java.sql.SQLException;
+
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
@@ -8,8 +10,11 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
+import com.jcraft.jsch.JSchException;
+
 import Page.WelcomePage;
 import common.CommonMethods;
+import common.ConnectDataBase;
 
 
 
@@ -18,7 +23,7 @@ import common.CommonMethods;
 public class HomePage {
 	private WebDriver driver;
 	private CommonMethods CF;
-	//private ConnectDataBase DB;
+	private ConnectDataBase DB;
 	@Parameters({ "remoteBrowserType"})
 	
 	@BeforeClass(alwaysRun=true)
@@ -45,14 +50,17 @@ public class HomePage {
 		CF.closeBroswer();
 	}	
 	@Test(groups = {"Regression"},description="Open Home Page")
-	public void OpenHomePage(){
+	public void OpenHomePage() throws JSchException, SQLException{
 		WelcomePage WelcomePage = new WelcomePage(driver);
+		DB= new ConnectDataBase();
+		DB.ConnectDataBase();
 		
 	}
-	@Test(groups = {"Regression"},description="Click Login Link")
+	//@Test(groups = {"Regression"},description="Click Login Link")
 	public void ClickLogIn(){
 		WelcomePage WelcomePage = new WelcomePage(driver);
 		WelcomePage.ClickLogYourSelfLink();
 	}
+	
 	
 }
