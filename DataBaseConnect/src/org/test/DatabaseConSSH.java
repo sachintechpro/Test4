@@ -47,8 +47,7 @@ import org.testng.annotations.Test;
 
 	            int assignedPort = DatabaseConSSH.doSshTunnel(strSshUser, strSshPassword, strSshHost,nLocalPort, strRemoteHost, nRemotePort);
 
-	            StringBuilder url =
-	                    new StringBuilder("jdbc:mysql://localhost:");
+	            StringBuilder url = new StringBuilder("jdbc:mysql://localhost:");
 	             
 	            // use assigned_port to establish database connection
 	            url.append(assignedPort).append ("/").append("itech").append ("?user=").
